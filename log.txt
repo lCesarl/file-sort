@@ -1,0 +1,29 @@
+23.6.2022 23:38:04: START SKRIPT
+23.6.2022 23:38:04: Found - file is not correct: M:\MMC\ArchivBestellungen\1\100001.pdf
+23.6.2022 23:38:04: Found - file is not correct: M:\MMC\ArchivBestellungen\20\200001.pdf
+23.6.2022 23:38:04: Found - file is not correct: M:\MMC\ArchivBestellungen\20\200002.pdf
+23.6.2022 23:38:04: Found directory 1 - M:\MMC\ArchivBestellungen\1\\100001.pdf
+23.6.2022 23:38:04: File moved from M:\MMC\ArchivBestellungen\1\\100001.pdf to: M:\MMC\ArchivBestellungen\\1\100001.pdf
+23.6.2022 23:38:04: Found directory 10 - M:\MMC\ArchivBestellungen\1\\100001.pdf
+23.6.2022 23:38:04: File moved from M:\MMC\ArchivBestellungen\1\\100001.pdf to: M:\MMC\ArchivBestellungen\\10\100001.pdf
+23.6.2022 23:38:04: Found directory 2 - M:\MMC\ArchivBestellungen\20\\200001.pdf
+23.6.2022 23:38:04: File moved from M:\MMC\ArchivBestellungen\20\\200001.pdf to: M:\MMC\ArchivBestellungen\\2\200001.pdf
+23.6.2022 23:38:04: Found directory 2 - M:\MMC\ArchivBestellungen\20\\200002.pdf
+23.6.2022 23:38:04: File moved from M:\MMC\ArchivBestellungen\20\\200002.pdf to: M:\MMC\ArchivBestellungen\\2\200002.pdf
+23.6.2022 23:38:04: Found directory 20 - M:\MMC\ArchivBestellungen\20\\200001.pdf
+23.6.2022 23:39:08: START SKRIPT
+23.6.2022 23:39:08: Found - file is not correct: M:\MMC\ArchivBestellungen\10\100001.pdf
+23.6.2022 23:39:08: Found - file is not correct: M:\MMC\ArchivBestellungen\2\200001.pdf
+23.6.2022 23:39:08: Found - file is not correct: M:\MMC\ArchivBestellungen\2\200002.pdf
+23.6.2022 23:39:08: Found directory 1 - M:\MMC\ArchivBestellungen\10\\100001.pdf
+23.6.2022 23:39:25: START SKRIPT
+23.6.2022 23:39:25: Found - file is not correct: M:\MMC\ArchivBestellungen\10\100001.pdf
+23.6.2022 23:39:25: Found - file is not correct: M:\MMC\ArchivBestellungen\2\200001.pdf
+23.6.2022 23:39:25: Found - file is not correct: M:\MMC\ArchivBestellungen\2\200002.pdf
+23.6.2022 23:39:25: Found directory 1 - M:\MMC\ArchivBestellungen\10\\100001.pdf
+23.6.2022 23:39:25: M:\MMC\ArchivBestellungen\10\\100001.pdf
+23.6.2022 23:39:25: M:\MMC\ArchivBestellungen\\1\100001.pdf
+23.6.2022 23:39:25: File moved from M:\MMC\ArchivBestellungen\10\\100001.pdf to: M:\MMC\ArchivBestellungen\\1\100001.pdf
+23.6.2022 23:39:25: Found directory 10 - M:\MMC\ArchivBestellungen\10\\100001.pdf
+23.6.2022 23:39:25: M:\MMC\ArchivBestellungen\10\\100001.pdf
+23.6.2022 23:39:25: M:\MMC\ArchivBestellungen\\10\100001.pdf
